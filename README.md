@@ -14,5 +14,5 @@
 ## 3 Link nộp bài của SV3:
 1. **Link Figma:** [Figma Link](https://www.figma.com/design/V1EBTJABsGLSd9f2kLbuQf/Untitled?node-id=0-1&t=GAwFr2y0oWUAMg12-1)
 2. **Link GitHub cá nhân:** [GitHub Repo SV3](https://github.com/tducanh22122007-art/)
-3. **Link Video OBS 3 phút:** [Video OBS](https://youtube.com/)
-- Tên video: `CSE122-GK-SV03-[HoTen]-CoordinatorRequestBoard`
+3. **Link Video OBS 3 phút:** [Video OBS](https://youtube.com/playlist?list=PLWPNoGfnD-Bc&si=CnchNBRtkdzw47Le)
+- Tên video: `CSE122-GK-SV03-Trần Đức Anh-bảng điều phối yêu cầu thu gom
